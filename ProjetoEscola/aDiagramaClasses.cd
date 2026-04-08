@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProjetoEscola.Pessoa">
+    <Position X="4" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Pessoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetoEscola.Aluno">
+    <Position X="1.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Aluno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetoEscola.Professor">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAQAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Professor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetoEscola.Funcionario">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAQAAAAEA=</HashCode>
+      <FileName>Funcionario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetoEscola.FuncionarioNoturno">
+    <Position X="8.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAQAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>FuncionarioNoturno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
